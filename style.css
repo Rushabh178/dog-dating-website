@@ -30,3 +30,27 @@ icon{
   vertical-align: center;
   height: ;
 }
+/* Testimonial - section */
+#testimonials{
+    background-color: #ef8172;
+    /* color: #fff; */
+}
+.testimonial-text{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 3%;
+}
+
+/* Press-Section */
+#press{
+    background-color: #ef8172;
+    padding-bottom: 3%;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
